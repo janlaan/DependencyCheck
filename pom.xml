@@ -527,7 +527,7 @@ Copyright (c) 2012 - Jeremy Long
                     <signature>
                         <groupId>org.codehaus.mojo.signature</groupId>
                         <artifactId>java17</artifactId>
-                        <version>1.0</version>
+                        <version>1.16</version>
                     </signature>
                 </configuration>
             </plugin>
