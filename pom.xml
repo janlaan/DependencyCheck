@@ -175,7 +175,7 @@ Copyright (c) 2012 - Jeremy Long
         <maven-dependency-tree.version>2.2</maven-dependency-tree.version>
 
         <org.glassfish.javax.json.version>1.0.4</org.glassfish.javax.json.version>
-        <maven-artifact-transfer.version>0.9.1</maven-artifact-transfer.version>
+        <maven-artifact-transfer.version>0.13.1</maven-artifact-transfer.version>
 
         <surefireArgLine/>
     </properties>
